@@ -6,6 +6,8 @@
 
 started programming in 2002. still going.
 
+aussie from melbourne. now british too, living in jersey. an island famous for cows.
+
 likes: typescript, react, rails, docker-compose, linting, i18n, git, ci tooling, malatang, knowing stuff.
 doesn't like: microsoft server administration, drupal, android development, congee, not knowing stuff.
 
